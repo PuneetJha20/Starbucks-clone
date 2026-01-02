@@ -52,8 +52,12 @@ This project was built to:
 
 ---
 
-## Feedback and Contact
-The **Contact us** page contains a feedback form via **Google Form**.   
-If u like this website fill out the Feedback form. Ur feedback will be considered for the future updates.
+### Feedback and Contact
+
+The **Contact Us** page contains a feedback form via **Google Form**.  
+If you like this website fill out the feedback form.  
+Your feedback will be considered for future updates.
+
 ---
+
 ### **Author:** `Puneet Jha`
