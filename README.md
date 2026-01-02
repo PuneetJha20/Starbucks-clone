@@ -52,7 +52,7 @@ This project was built to:
 
 ---
 
-### Feedback and Contact
+## Feedback and Contact
 
 The **Contact Us** page contains a feedback form via **Google Form**.  
 If you like this website fill out the feedback form.  
